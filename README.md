@@ -12,4 +12,4 @@ Admin: Kitap ekle/güncelle/sil, istatistik ve en çok ödünç alınan kitaplar
 Tasarım Desenleri:
 
 State Pattern: Ödünç alma durumu yönetimi (Pending → Approved → Delivered → Returned)
-Strategy Pattern: Kitap arama/filterleme (kategori, yazar, basım yılı)
+Strategy Pattern: Kitap arama/filterleme (kategori, yazar)
